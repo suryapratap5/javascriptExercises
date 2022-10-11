@@ -6,7 +6,6 @@ let defference_in_time = date1.getTime() - date2.getTime();
 console.log(defference_in_time)
 
 // difference in days
-
 let diffDays = defference_in_time/(1000 * 60 * 60 * 24)
 console.log(diffDays+ ' days')
 
